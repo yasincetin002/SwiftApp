@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.4.0)
+  - TGCameraViewController (2.2.8)
+
+DEPENDENCIES:
+  - Alamofire
+  - TGCameraViewController
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  TGCameraViewController: 0768b534800e6136e70dd3cc5aafe1310b448480
+
+PODFILE CHECKSUM: d77665da5c18b2e5bbc618712a21ce4a6297590e
+
+COCOAPODS: 1.2.1
